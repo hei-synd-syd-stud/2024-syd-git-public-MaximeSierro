@@ -30,7 +30,7 @@ Cette fois-ci, README.md est à la fois en attente d'être commit  et en attente
 
 ### Task 6
 
-
+Lorsque je suis revenu sur le initial commit, mon dossier de projet est redevenu dans l'état qu'il avait au début du labo (sans readme et sans modifications). Lorsque je suis revenus au dernier commit toutes les modifications ont été remises.
 
 ## Gitgraph
 
