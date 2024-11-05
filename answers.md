@@ -36,4 +36,24 @@ Lorsque je suis revenu sur le initial commit, mon dossier de projet est redevenu
 
 ### Task 7
 
+* 1: develop est une branche différente de main
+
+* 2: c'est le "hash" du commit, son id
+
+* 3: message du merge qui dit que la branche "feature-auth" a été fusionnée sur la branche "develop"
+
+* 4: auteur du commit
+
+* 5: indique la version actuelle du main
+
+* 6: merge de feature-auth into develop
+
+* 7: chechout de feature-auth depuis main
+
+* 8: merge de develop into main
+
+* 9: checkout de la branche develop depuis main
+
+* 10: initial commit, état du repository avant modif
+
 ![Gitgraph](img/gitgraph.svg)
